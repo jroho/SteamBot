@@ -1,0 +1,66 @@
+[dota2outlet.com 2013-07-26 00:46:56] DEBUG: Initializing Steam Bot...
+[dota2outlet.com 2013-07-26 00:46:57] INFO: Connecting...
+[dota2outlet.com 2013-07-26 00:46:57] SUCCESS: Done Loading Bot!
+[dota2outlet.com 2013-07-26 00:46:57] DEBUG: SteamKit2.SteamClient+ConnectedCallback
+[dota2outlet.com 2013-07-26 00:46:57] DEBUG: Connection Callback: OK
+[dota2outlet.com 2013-07-26 00:46:58] DEBUG: SteamKit2.SteamUser+LoggedOnCallback
+[dota2outlet.com 2013-07-26 00:46:58] DEBUG: Logged On Callback: AccountLogonDenied
+[dota2outlet.com 2013-07-26 00:46:58] ERROR: Login Error: AccountLogonDenied
+[dota2outlet.com 2013-07-26 00:46:58] INTERFACE: This account is SteamGuard enabled. Enter the code via the `auth' command.
+[dota2outlet.com 2013-07-26 00:54:42] DEBUG: Initializing Steam Bot...
+[dota2outlet.com 2013-07-26 00:54:42] INFO: Connecting...
+[dota2outlet.com 2013-07-26 00:54:42] SUCCESS: Done Loading Bot!
+[dota2outlet.com 2013-07-26 00:54:43] DEBUG: SteamKit2.SteamClient+ConnectedCallback
+[dota2outlet.com 2013-07-26 00:54:43] DEBUG: Connection Callback: OK
+[dota2outlet.com 2013-07-26 00:54:44] DEBUG: SteamKit2.SteamUser+LoggedOnCallback
+[dota2outlet.com 2013-07-26 00:54:44] DEBUG: Logged On Callback: AccountLogonDenied
+[dota2outlet.com 2013-07-26 00:54:44] ERROR: Login Error: AccountLogonDenied
+[dota2outlet.com 2013-07-26 00:54:44] INTERFACE: This account is SteamGuard enabled. Enter the code via the `auth' command.
+[dota2outlet.com 2013-07-26 01:03:31] DEBUG: SteamKit2.SteamClient+DisconnectedCallback
+[dota2outlet.com 2013-07-26 01:03:31] WARN: Disconnected from Steam Network!
+[dota2outlet.com 2013-07-26 01:03:32] DEBUG: SteamKit2.SteamClient+ConnectedCallback
+[dota2outlet.com 2013-07-26 01:03:32] DEBUG: Connection Callback: OK
+[dota2outlet.com 2013-07-26 01:03:32] DEBUG: SteamKit2.SteamUser+LoggedOnCallback
+[dota2outlet.com 2013-07-26 01:03:32] DEBUG: Logged On Callback: OK
+[dota2outlet.com 2013-07-26 01:03:32] DEBUG: SteamKit2.SteamUser+AccountInfoCallback
+[dota2outlet.com 2013-07-26 01:03:32] DEBUG: SteamKit2.SteamUser+AccountInfoCallback
+[dota2outlet.com 2013-07-26 01:03:32] DEBUG: SteamKit2.SteamApps+VACStatusCallback
+[dota2outlet.com 2013-07-26 01:03:32] DEBUG: SteamKit2.SteamFriends+FriendsListCallback
+[dota2outlet.com 2013-07-26 01:03:32] DEBUG: SteamKit2.SteamApps+LicenseListCallback
+[dota2outlet.com 2013-07-26 01:03:32] DEBUG: SteamKit2.SteamApps+GuestPassListCallback
+[dota2outlet.com 2013-07-26 01:03:32] DEBUG: SteamKit2.SteamUser+WalletInfoCallback
+[dota2outlet.com 2013-07-26 01:03:32] DEBUG: SteamKit2.SteamApps+GameConnectTokensCallback
+[dota2outlet.com 2013-07-26 01:03:32] DEBUG: SteamKit2.SteamUser+SessionTokenCallback
+[dota2outlet.com 2013-07-26 01:03:32] DEBUG: SteamKit2.SteamClient+CMListCallback
+[dota2outlet.com 2013-07-26 01:03:32] DEBUG: SteamKit2.SteamClient+JobCallback`1[SteamKit2.SteamUser+UpdateMachineAuthCallback]
+[dota2outlet.com 2013-07-26 01:03:32] DEBUG: SteamKit2.SteamFriends+PersonaStateCallback
+[dota2outlet.com 2013-07-26 01:03:32] DEBUG: SteamKit2.SteamFriends+PersonaStateCallback
+[dota2outlet.com 2013-07-26 01:03:32] DEBUG: SteamKit2.SteamFriends+PersonaStateCallback
+[dota2outlet.com 2013-07-26 01:03:32] DEBUG: SteamKit2.SteamFriends+PersonaStateCallback
+[dota2outlet.com 2013-07-26 01:03:33] DEBUG: SteamKit2.SteamUser+AccountInfoCallback
+[dota2outlet.com 2013-07-26 01:03:35] DEBUG: SteamKit2.SteamUser+LoginKeyCallback
+[dota2outlet.com 2013-07-26 01:03:35] SUCCESS: User Authenticated!
+[dota2outlet.com 2013-07-26 01:03:35] INFO: Downloading Schema...
+[dota2outlet.com 2013-07-26 01:03:37] SUCCESS: Schema Downloaded!
+[dota2outlet.com 2013-07-26 01:03:37] SUCCESS: Steam Bot Logged In Completely!
+[dota2outlet.com 2013-07-26 01:03:38] DEBUG: SteamKit2.SteamFriends+PersonaStateCallback
+[dota2outlet.com 2013-07-26 01:03:38] DEBUG: SteamKit2.SteamFriends+PersonaStateCallback
+[dota2outlet.com 2013-07-26 01:03:38] DEBUG: SteamKit2.SteamFriends+PersonaStateCallback
+[dota2outlet.com 2013-07-26 01:04:07] DEBUG: SteamKit2.SteamFriends+FriendMsgCallback
+[dota2outlet.com 2013-07-26 01:04:08] DEBUG: SteamKit2.SteamFriends+FriendMsgCallback
+[dota2outlet.com 2013-07-26 01:04:08] INFO: Chat Message from dota2outlet.com: hi
+[dota2outlet.com 2013-07-26 01:04:11] DEBUG: SteamKit2.SteamFriends+FriendMsgCallback
+[dota2outlet.com 2013-07-26 01:04:11] DEBUG: SteamKit2.SteamFriends+FriendMsgCallback
+[dota2outlet.com 2013-07-26 01:04:11] INFO: Chat Message from dota2outlet.com: sup
+[dota2outlet.com 2013-07-26 01:04:23] DEBUG: SteamKit2.SteamFriends+PersonaStateCallback
+[dota2outlet.com 2013-07-26 01:04:33] DEBUG: SteamKit2.SteamFriends+FriendMsgCallback
+[dota2outlet.com 2013-07-26 01:04:33] DEBUG: SteamKit2.SteamFriends+FriendMsgCallback
+[dota2outlet.com 2013-07-26 01:04:33] INFO: Chat Message from dota2outlet.com: hi
+[dota2outlet.com 2013-07-26 01:04:36] DEBUG: SteamKit2.SteamTrading+TradeProposedCallback
+[dota2outlet.com 2013-07-26 01:04:38] DEBUG: SteamKit2.SteamTrading+SessionStartCallback
+[dota2outlet.com 2013-07-26 01:04:38] DEBUG: SteamTrading.SessionStartCallback handled successfully. Trade Opened.
+[dota2outlet.com 2013-07-26 01:08:24] DEBUG: Initializing Steam Bot...
+[dota2outlet.com 2013-07-26 01:08:24] INFO: Connecting...
+[dota2outlet.com 2013-07-26 01:08:24] SUCCESS: Done Loading Bot!
+[dota2outlet.com 2013-07-26 01:08:25] DEBUG: SteamKit2.SteamClient+ConnectedCallback
+[dota2outlet.com 2013-07-26 01:08:25] DEBUG: Connection Callback: OK

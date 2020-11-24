@@ -1,0 +1,37 @@
+{
+"Admins":["76561197960873182"],
+"ApiKey":"73E6B40DFD1503F412EBF602D6E29B2B",
+"mainLog": "syslog.log",
+"UseSeparateProcesses": "false",
+"AutoStartAllBots": "true",
+"Bots": [
+        {
+            "Username":"jroho",
+            "Password":"4417oakct",
+            "DisplayName":"dota2outlet.com",
+            "ChatResponse":"Hi there bro",
+            "logFile": "TestBot.log",
+            "BotControlClass": "SteamBot.SimpleUserHandler",
+            "MaximumTradeTime":180,
+            "MaximumActionGap":30,
+            "DisplayNamePrefix":"[BOT-0] ",
+            "TradePollingInterval":800,
+            "LogLevel":"Success",
+            "AutoStart": "true"
+        },
+		{
+            "Username":"jroho1",
+            "Password":"4417oakct",
+            "DisplayName":"dota2outlet.com",
+            "ChatResponse":"Hi there bro",
+            "logFile": "TestBot.log",
+            "BotControlClass": "SteamBot.SimpleUserHandler",
+            "MaximumTradeTime":180,
+            "MaximumActionGap":30,
+            "DisplayNamePrefix":"[BOT-1] ",
+            "TradePollingInterval":800,
+            "LogLevel":"Success",
+            "AutoStart": "true"
+        }
+    ]
+}

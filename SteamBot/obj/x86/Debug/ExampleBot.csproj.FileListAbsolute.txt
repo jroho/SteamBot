@@ -1,0 +1,6 @@
+C:\Users\roho\Documents\Visual Studio 2012\Projects\SteamBot\SteamBot\obj\x86\Debug\ExampleBot.csprojResolveAssemblyReference.cache
+C:\Users\roho\Documents\Visual Studio 2012\Projects\SteamBot\Bin\Debug\SteamBot.exe.config
+C:\Users\roho\Documents\Visual Studio 2012\Projects\SteamBot\Bin\Debug\SteamBot.exe
+C:\Users\roho\Documents\Visual Studio 2012\Projects\SteamBot\Bin\Debug\SteamBot.pdb
+C:\Users\roho\Documents\Visual Studio 2012\Projects\SteamBot\SteamBot\obj\x86\Debug\SteamBot.exe
+C:\Users\roho\Documents\Visual Studio 2012\Projects\SteamBot\SteamBot\obj\x86\Debug\SteamBot.pdb
